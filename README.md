@@ -39,7 +39,7 @@ I'm continuously improving my analytical skills by building practical projects a
 
 ---
 
-# 📂 Projects
+#  Projects
 
 ## 1. Student Performance Prediction (Machine Learning)
 
@@ -77,7 +77,7 @@ The project includes:
 
 ---
 
-## 2. 📈 Customer Churn Checker (Python)
+## 2.Customer Churn Checker (Python)
 
 ### Project Description
 
@@ -105,7 +105,7 @@ The program evaluates customer information entered by the user and predicts whet
 
 ---
 
-## 3. 💼 Employee Payroll Management (Excel)
+## 3.Employee Payroll Management (Excel)
 
 ### Project Description
 
@@ -129,7 +129,7 @@ The workbook automatically computes payroll values, helping organizations determ
 
 ---
 
-## 4. 📋 Company Employee Grade Book (Excel)
+## 4.Company Employee Grade Book (Excel)
 
 ### Project Description
 
@@ -152,7 +152,7 @@ The workbook categorizes employees according to their performance, helping manag
 
 ---
 
-## 5. 🎯 Career Decision Support Tool (Excel)
+## 5. Career Decision Support Tool (Excel)
 
 ### Project Description
 
@@ -184,7 +184,7 @@ Each factor contributes to an overall score, allowing the user to compare differ
 
 ---
 
-# 📊 Tools & Technologies
+# Tools & Technologies
 
 - Microsoft Excel
 - Python
@@ -200,7 +200,7 @@ Each factor contributes to an overall score, allowing the user to compare differ
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 As I continue learning, I plan to add more projects, including:
 
