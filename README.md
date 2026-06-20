@@ -214,7 +214,7 @@ As I continue learning, I plan to add more projects, including:
 - Predictive Analytics Projects
 
 ---
-# shalom Asieba
+shalom Asieba
 Aspiring Data Analyst | Data Science Enthusiast
 
 
